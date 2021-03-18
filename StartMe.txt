@@ -1,0 +1,15 @@
+########################Create StartMe.cmd file#########################
+
+$StartMePath="C:\Temp"
+$StartMe="C:\Temp\StartMe.cmd"
+
+#Delete existing StartMe.cmd
+
+if(Test-Path($StartMe))
+{
+  Remove-Item $StartMe -Force
+}
+
+#Create StartMe.cmd
+
+get-childitem $StartMePath | ForEach-Object{Add-Content -Path $StartMe -Value "call start $($_.FullName)"}
