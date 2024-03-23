@@ -13,6 +13,7 @@
 /home/mypc/Desktop/MyWork/Dotnet/golive/obj/Debug/net8.0/golive.MvcApplicationPartsAssemblyInfo.cache
 /home/mypc/Desktop/MyWork/Dotnet/golive/obj/Debug/net8.0/golive.RazorAssemblyInfo.cache
 /home/mypc/Desktop/MyWork/Dotnet/golive/obj/Debug/net8.0/golive.RazorAssemblyInfo.cs
+/home/mypc/Desktop/MyWork/Dotnet/golive/obj/Debug/net8.0/golive.sourcelink.json
 /home/mypc/Desktop/MyWork/Dotnet/golive/obj/Debug/net8.0/staticwebassets.build.json
 /home/mypc/Desktop/MyWork/Dotnet/golive/obj/Debug/net8.0/staticwebassets.development.json
 /home/mypc/Desktop/MyWork/Dotnet/golive/obj/Debug/net8.0/staticwebassets/msbuild.golive.Microsoft.AspNetCore.StaticWebAssets.props
